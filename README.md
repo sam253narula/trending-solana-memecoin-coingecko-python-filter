@@ -1,4 +1,4 @@
-# Solana Meme Coin Filter
+# Trending Solana Meme Coin Filter
 
 ## Overview
 This project fetches the top 70 trending coins from [CoinGecko](https://www.coingecko.com/), filters them to identify meme coins built on the Solana blockchain, and returns both the meme coin name and its contract address.
