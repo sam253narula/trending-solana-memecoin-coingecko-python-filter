@@ -1,0 +1,2 @@
+Validated the code returns the correct solana based meme coin addresses using below tool:
+https://solscan.io/token/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7
